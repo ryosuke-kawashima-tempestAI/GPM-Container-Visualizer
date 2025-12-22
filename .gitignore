@@ -8,6 +8,7 @@ __pycache__/
 
 # My Documents
 examples/
+outputs/
 
 # Distribution / packaging
 .Python
